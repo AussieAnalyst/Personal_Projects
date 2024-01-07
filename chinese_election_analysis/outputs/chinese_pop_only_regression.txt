@@ -1,0 +1,8 @@
+------ Linear Regression and Pearson measurement of the correlation between Chinese Population Percentage of an electorate and the electorate swing towards Labor ------
+
+
+The Linear Regression has a coefficient of  0.16
+Mean Squared Error: 8.53
+R-squared: 0.16
+
+Pearson Correlation Coefficient:  0.27

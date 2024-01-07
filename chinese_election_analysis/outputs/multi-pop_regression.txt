@@ -1,0 +1,10 @@
+------ Linear Regression and Pearson measurement of the correlation between Chinese and Non-European Population Percentages of an electorate and the electorate swing towards Labor ------
+
+
+The Linear Regression has a coefficient of  0.29  for the chinese population contribution
+The Linear Regression has a coefficient of  -0.07  for the Non-European population contribution
+Mean Squared Error: 4.98
+R-squared: 0.51
+
+Pearson Correlation Coefficient - Chinese population:  0.27
+Pearson Correlation Coefficient - Non-European population:  0.01
